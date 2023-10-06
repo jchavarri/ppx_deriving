@@ -3,7 +3,6 @@
  (public_name ppx_deriving.runtime)
  (wrapped false)
  (synopsis "Type-driven code generation")
- (libraries result)
  (modes :standard melange))
 
 (rule
